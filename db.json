@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "diogo@gmail.com",
+      "password": "$2a$10$Vrtxnjk9ADe.UewnOJCbReeJCS/2qncsGatIVEAPVYY9/bnpVrRoG",
+      "name": "Diogo",
+      "last_name": "Steiner",
+      "age": 21,
+      "genre": "Masculino",
+      "profession": "Develop",
+      "profile_photo": null,
+      "validation": false,
+      "id": 1
+    },
+    {
+      "email": "diogotrue@gmail.com",
+      "password": "$2a$10$2mwZAftRtG9tSa3A3zzX.O8mESR63X10jZP5MNzjhXZz50UGAW1E.",
+      "name": "Diogo",
+      "last_name": "Steiner",
+      "age": 21,
+      "genre": "Masculino",
+      "profession": "Develop",
+      "profile_photo": "https://i.imgur.com/XnEcZ0p.jpg",
+      "validation": true,
+      "id": 2
+    }
+  ]
+}
