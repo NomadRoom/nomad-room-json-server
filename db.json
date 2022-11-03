@@ -417,5 +417,53 @@
       "contact": 21999999999,
       "id": 17
     }
+  ],
+  "favorites": [
+    {
+      "userId": 2,
+      "title": "Quarto INDIVIDUAL a 3 minutos a pé da estação Carrão do METRÔ!!!",
+      "description": "Não cobramos mais nenhuma taxa extra. Não fornecemos internet, você pode solicitar uma ou dividir o sinal com os outros hóspedes!",
+      "about": {
+        "gym": false,
+        "internet": true,
+        "tv": false,
+        "garage": false,
+        "animals": true,
+        "furnished": false
+      },
+      "localization": {
+        "zip_code": "03071-100",
+        "district": "Tatuapé",
+        "state": "São Paulo , SP",
+        "street": "Rua Doutor Raul da Rocha Medeiros",
+        "number": 88
+      },
+      "room_photo": "https://i.imgur.com/e7SgPd5.jpg",
+      "contact": 21999999999,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Apartamento Studio em Copacabana perto da praia",
+      "description": "Moderno e silencioso, apenas 3 minutos andando até a praia! Imóvel com aprox. 25m². Apartamento dividido em quarto, banheiro e cozinha. Possui 1 cama box de casal Tok &Stok, 1 TV LCD, ar condicionado, geladeira, cooktop e microondas. Internet sem fio. Localização com total infra-estrutura, super mercados, padaria 24 h, farmácias, bancos, restaurantes e transporte público. Localizado no 3° andar, prédio seguro com portaria 24h.",
+      "about": {
+        "gym": true,
+        "internet": true,
+        "tv": true,
+        "garage": true,
+        "animals": true,
+        "furnished": true
+      },
+      "localization": {
+        "zip_code": "20535-350",
+        "district": "Alto da Boa Vista",
+        "state": "Rio de Janeiro, RJ",
+        "street": "Rua Olegário Ferreira",
+        "number": 1920
+      },
+      "room_photo": "https://i.imgur.com/Xy7K2ML.jpg",
+      "contact": 21999999999,
+      "id": 2
+    }
   ]
 }
