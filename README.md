@@ -6,7 +6,7 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 # baseUrl
 
-## Heroku: https://nomad-room-json-server.herokuapp.com
+## Render: https://nomad-room-json-server.onrender.com
 
 ## Local: http://localhost:3001
 
